@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/markdebont/quartz
+  baseUrl: markdebont.github.io/quartz
   ignorePatterns:
     - private
     - templates
