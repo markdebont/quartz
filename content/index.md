@@ -1,6 +1,17 @@
 ---
-title: Welcome to Quartz
+title: "Kroniek"
+publish: true
+draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Kroniek
+
+Een selectie uit oude blogs, foto’s en notities.
+
+## Gepubliceerde selectie
+
+- Altijd Scherp Fotografie: 1 items
+
+## Start
+
+- [Altijd Scherp Fotografie](altijd-scherp/)
