@@ -22,7 +22,8 @@ themes:
 - boeken
 - maatschappij
 - persoonlijk archief
-title: 'Boekbespreking: "Het Blauwe Boekje" , De Vries &amp; Wolbrink'
+title: 'Boekbespreking: "Het Blauwe Boekje" , De Vries ![Het blauwe boekje](images/hetblauweboekje_front.jpg
+  "Hetblauweboekje_front") *amp; Wolbrink'
 visibility: public
 ---
 
@@ -40,6 +41,6 @@ of "het tonen van emotionele betrokkenheid waarmee u niemand een plezier mee doe
 
 Voor mensen die meer willen weten over dress codes, tafelmanieren maar b.v. wijn etc. is dit boek een aanrader.
 
-\[caption id="attachment\_614" align="alignleft" width="640" caption="Het blauwe boekje "\][![Het blauwe boekje](images/hetblauweboekje_front.jpg "Hetblauweboekje_front")](http://markdebont.wordpress.com/wp-content/uploads/2011/11/hetblauweboekje_front.jpg)\[/caption\]
+\[caption id="attachment\_614" align="alignleft" width="640" caption="Het blauwe boekje "\][](http://markdebont.wordpress.com/wp-content/uploads/2011/11/hetblauweboekje_front.jpg)*
 
 Voor mensen die liever een on-line stijlgids willen raadplegen, die kunnen terecht bij [Beatrijs](http://www.beatrijs.com/). Degene die niet van lezen houden: Jort Kelder heeft er een programma van gemaakt: "[Hoe heurt het eigenlijk](http://avro.nl/hoeheurtheteigenlijk/)"

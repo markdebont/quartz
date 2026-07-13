@@ -25,15 +25,18 @@ title: '#BYOpicknick 2012 editie'
 visibility: public
 ---
 
-\[caption id="attachment\_757" align="alignnone" width="640"\][![BYO Picknick #040 2012](images/img_2132.jpg "BYO Picknick #040 2012")](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2132.jpg) BYO Picknick #040 2012\[/caption\]
+![BYO Picknick #040 2012](images/img_2132.jpg "BYO Picknick #040 2012")
+*[](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2132.jpg) BYO Picknick #040 2012*
 
 Volle bak in het stadswandelpark
 
-\[caption id="attachment\_756" align="alignnone" width="640"\][![BYO Picknick #040 2012](images/img_2137.jpg "BYO Picknick #040 2012")](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2137.jpg) BYO Picknick #040 2012\[/caption\]
+![BYO Picknick #040 2012](images/img_2137.jpg "BYO Picknick #040 2012")
+*[](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2137.jpg) BYO Picknick #040 2012*
 
 Iedereen bracht lekkere hapjes mee... Alhoewel sommige met alleen drank aan kwamen zetten
 
-\[caption id="attachment\_755" align="alignnone" width="640"\][![BYO Picknick #040 2012](images/img_2133.jpg "BYO Picknick #040 2012")](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2133.jpg) BYO Picknick #040 2012\[/caption\]
+![BYO Picknick #040 2012](images/img_2133.jpg "BYO Picknick #040 2012")
+*[](https://eindhovenfinest.wordpress.com/wp-content/uploads/2012/06/img_2133.jpg) BYO Picknick #040 2012*
 
 Evenement werd druk gecovered door de internationale media!
 

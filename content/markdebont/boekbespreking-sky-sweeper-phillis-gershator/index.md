@@ -26,7 +26,8 @@ title: 'Boekbespreking: "Sky Sweeper", Phillis Gershator'
 visibility: public
 ---
 
-\[caption id="attachment\_298" align="alignleft" width="225" caption="sky sweeper "\][![sky sweeper](images/sky-sweeper.jpg "sky sweeper")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/sky-sweeper.jpg)\[/caption\]
+![sky sweeper](images/sky-sweeper.jpg "sky sweeper")
+*[](http://markdebont.wordpress.com/wp-content/uploads/2011/06/sky-sweeper.jpg)*
 
 Ik heb dit boek eind 2009, tijdens mijn vakantie in Japan, gelezen. Eerst uit verveling maar uiteindelijk zit er een heel mooi en tijdloos verhaal in. Ik heb het boek dan ook gelijk gekocht toen ik weer terug in Nederland was en heb het sindsdien meerdere keren gelezen!
 

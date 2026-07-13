@@ -1,5 +1,5 @@
 ---
-title: Kroniek
+title: "Kroniek"
 publish: true
 draft: false
 ---
@@ -10,10 +10,10 @@ Een selectie uit oude blogs, foto’s en notities.
 
 ## Gepubliceerde selectie
 
-- Altijd Scherp Fotografie: 1 items
-- CLEARCASE.NL: 8 items
-- Eindhoven Finest: 1 items
-- Mark de Bont's blog: 10 items
+- Altijd Scherp Fotografie: 13 items
+- CLEARCASE.NL: 9 items
+- Eindhoven Finest: 2 items
+- Mark de Bont's blog: 11 items
 
 ## Start
 

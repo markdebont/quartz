@@ -24,7 +24,8 @@ title: 'Boekbespreking: "Manufacturing Consent", Noam Chomsky'
 visibility: public
 ---
 
-\[caption id="attachment\_301" align="alignnone" width="298" caption="Manufacturing Consent"\][![Manufacturing Consent](images/manugactorinconsent2.jpg "Manugactorinconsent2")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)\[/caption\]
+![Manufacturing Consent](images/manugactorinconsent2.jpg "Manugactorinconsent2")
+*[](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)*
 
 Dit is één van de betere boeken die ik in 2011 heb mogen lezen. Van te voren had ik op internet al één en ander van hem gelezen en diverse podcasts geluisterd. Afijn, laat Google los op "Noam Chomsky" en je komt al een heel eind. Dit boek is ook verfilmd met de gelijknamige titel. De boodschap is hetzelfde alhoewel ik het boek wel krachtiger vind.
 
@@ -44,4 +45,4 @@ Enkele, voor mij, smakelijke ontdekkingen en quotes:
 
 Afijn, de uiteindelijk boodschap is: Blijf geïnformeerd!
 
-P.s. recentelijk verscheen er een artikel op [Zerohedge.com](http://www.zerohedge.com/contributed/top-social-media-websites-caught-censoring-controversial-content?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zerohedge%2Ffeed+%28zero+hedge+-+on+a+long+enough+timeline%2C+the+survival+rate+for+everyone+drops+to+zero%29) wat aangaf dat deze praktijken het ook in de virtuele wereld van internet gebeurd. Mensen worden betaald om content te "liken" of te markeren als spam/abbuse...
+P.s. recentelijk verscheen er een artikel op [Zerohedge.com](http://www.zerohedge.com/contributed/top-social-media-websites-caught-censoring-controversial-content?utm_source=feedburner*utm_medium=feed*utm_campaign=Feed%3A+zerohedge%2Ffeed+%28zero+hedge+-+on+a+long+enough+timeline%2C+the+survival+rate+for+everyone+drops+to+zero%29) wat aangaf dat deze praktijken het ook in de virtuele wereld van internet gebeurd. Mensen worden betaald om content te "liken" of te markeren als spam/abbuse...

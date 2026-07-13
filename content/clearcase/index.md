@@ -10,8 +10,9 @@ Een selectie uit mijn professionele notities over IT, softwareontwikkeling en va
 
 ## Posts
 
-- 2005-09-01 · [First Post](first-post/index.md)
 - 2010-05-21 · [Handige Clearcase commando's](handige-clearcase-commandos/index.md)
+- 2011-01-11 · [Betrouwbaarheid en snellere doorlooptijd bij ontwikkeling van softwareproducten](betrouwbaarheid-en-snellere-doorlooptijd-bij-ontwikkeling-van-softwareproducten-2/index.md)
+- 2011-06-20 · [Over Clearcase.nl](over/index.md)
 - 2012-06-05 · [Via tweakers.net : uitleg CVS (concurrent versions system)](via-tweakers-net-uitleg-cvs-concurrent-versions-system/index.md)
 - 2013-10-12 · [Clearcase no more](clearcase-no-more/index.md)
 - 2015-03-13 · [Weer een flinke boost voor GIT](weer-een-flinke-boost-voor-git/index.md)

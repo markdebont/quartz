@@ -31,15 +31,17 @@ Als "professional" lees ik (veel) boeken ;-) Om u daar ook van te laten profit
 
 # [Boekbespreking: “Tricks of the Mind”, Derren Brown](http://markdebont.wordpress.com/2012/10/04/boekbespreking-tricks-of-the-mind-derren-brown/)
 
-\[caption id="" align="alignnone" width="275"\]![Derren Brown](images/trickofthemindcover.jpg "Derren Brown") Derren Brown\[/caption\]
+![Derren Brown](images/trickofthemindcover.jpg "Derren Brown")
+*Derren Brown*
 
 # [Boekbespreking: "the Code Book", Simon Singh](http://wp.me/p1tLVU-h6)
 
 ![](images/code-book.jpg)
 
-# [Boekbespreking: “Book of General Ignorance”, John Lloyd & John Mitchinson](http://markdebont.wordpress.com/2012/05/31/boekbespreking-book-of-general-ignorance-john-lloyd-john-mitchinson/)
+# [Boekbespreking: “Book of General Ignorance”, John Lloyd ![Book of General Ignorance](images/ignorance_9519_jpg_280x450_q851.jpg "Book of General Ignorance")
+*John Mitchinson](http://markdebont.wordpress.com/2012/05/31/boekbespreking-book-of-general-ignorance-john-lloyd-john-mitchinson/)
 
-\[caption id="attachment\_971" align="alignnone" width="280"\][![Book of General Ignorance](images/ignorance_9519_jpg_280x450_q851.jpg "Book of General Ignorance")](https://markdebont.wordpress.com/wp-content/uploads/2012/05/ignorance_9519_jpg_280x450_q851.jpg) Book of General Ignorance\[/caption\]
+\[caption id="attachment\_971" align="alignnone" width="280"\][](https://markdebont.wordpress.com/wp-content/uploads/2012/05/ignorance_9519_jpg_280x450_q851.jpg) Book of General Ignorance*
 
 # **[Manufacturing Consent, Noam Chomsky](http://markdebont.wordpress.com/2012/02/27/boekbespreking-manufacturing-concent-noam-chomsky/)**
 
@@ -65,17 +67,20 @@ Een boek voor kleine kinderen maar met een boodschap!
 
 [“The Black Swan” , Nassim Taleb](http://markdebont.wordpress.com/2011/12/06/boekbespreking-the-black-swan-nassim-taleb/ "Permalink naar Boekbespreking: “The Black Swan” , Nassim Taleb")
 
-\[caption id="attachment\_699" align="alignnone" width="500"\][![the Black Swan](images/black-swan-cover.jpg "Black-Swan-Cover")](http://markdebont.wordpress.com/wp-content/uploads/2011/11/black-swan-cover.jpg) the Black Swan\[/caption\]
+![the Black Swan](images/black-swan-cover.jpg "Black-Swan-Cover")
+*[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/black-swan-cover.jpg) the Black Swan*
 
 # [“Start with Why” , Simon Sinek](http://markdebont.wordpress.com/2011/11/13/boekbespreking-start-with-why-simon-sinek/)
 
-\[caption id="attachment\_622" align="alignnone" width="351"\][![Start with why](images/start_with_why.png "start_with_why")](http://markdebont.wordpress.com/wp-content/uploads/2011/11/start_with_why.png) Start with why\[/caption\]
+![Start with why](images/start_with_why.png "start_with_why")
+*[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/start_with_why.png) Start with why*
 
-# [Het Blauwe Boekje, Stijlgids, De Vries & Wolbrink](http://markdebont.wordpress.com/2011/11/06/boekbespreking-het-blauwe-boekje-de-vries-wolbrink/)
+# [Het Blauwe Boekje, Stijlgids, De Vries ![Het blauwe boekje](images/hetblauweboekje_front.jpg "Hetblauweboekje_front")
+*Wolbrink](http://markdebont.wordpress.com/2011/11/06/boekbespreking-het-blauwe-boekje-de-vries-wolbrink/)
 
 07/11/2011
 
-\[caption id="attachment\_614" align="alignnone" width="512"\][![Het blauwe boekje](images/hetblauweboekje_front.jpg "Hetblauweboekje_front")](http://markdebont.wordpress.com/wp-content/uploads/2011/11/hetblauweboekje_front.jpg) Het blauwe boekje\[/caption\]
+\[caption id="attachment\_614" align="alignnone" width="512"\][](http://markdebont.wordpress.com/wp-content/uploads/2011/11/hetblauweboekje_front.jpg) Het blauwe boekje*
 
 \* De volgende moet ik nog beschrijven/zijn onderweg \*
 
@@ -87,6 +92,7 @@ Dit boek ligt al jaren op mijn bureau. Het beschrijft vele praktische voorbeelde
 
 ## Musashi
 
-\[caption id="attachment\_299" align="alignnone" width="320"\][![miyamoto-musashi](images/miyamoto-musashi.jpg "miyamoto-musashi")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/miyamoto-musashi.jpg) miyamoto-musashi\[/caption\]
+![miyamoto-musashi](images/miyamoto-musashi.jpg "miyamoto-musashi")
+*[](http://markdebont.wordpress.com/wp-content/uploads/2011/06/miyamoto-musashi.jpg) miyamoto-musashi*
 
 t.b.a.

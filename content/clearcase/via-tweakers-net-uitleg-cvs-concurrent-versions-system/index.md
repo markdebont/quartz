@@ -26,7 +26,7 @@ title: 'Via tweakers.net : uitleg CVS (concurrent versions system)'
 visibility: public
 ---
 
-Op Tweakers.net stond een leuk [artikel](http://tweakers.net/video/5542/polderpioniers-het-concurrent-versions-system.html?mode=nested&max=10&niv=0&order=asc&page=3#reacties) over [CVS](http://en.wikipedia.org/wiki/Concurrent_Versions_System). Het versiebeheer systeem voor diverse platformen. Wat ik niet wist, is dat de nederlander [Dick Grune](http://en.wikipedia.org/wiki/Dick_Grune) hiervoor aan de basis stond.
+Op Tweakers.net stond een leuk [artikel](http://tweakers.net/video/5542/polderpioniers-het-concurrent-versions-system.html?mode=nested*max=10*niv=0*order=asc*page=3#reacties) over [CVS](http://en.wikipedia.org/wiki/Concurrent_Versions_System). Het versiebeheer systeem voor diverse platformen. Wat ik niet wist, is dat de nederlander [Dick Grune](http://en.wikipedia.org/wiki/Dick_Grune) hiervoor aan de basis stond.
 
 Deze beste man heeft destijds, koste- en belangeloos,  de basis voor dit systeem op internet gezet. Jaren later kwam hij met het resultaat in aanraking.
 

@@ -20,7 +20,8 @@ title: Weer een flinke boost voor GIT
 visibility: public
 ---
 
-\[caption width="178" align="alignnone"\]![](images/how-to-install-and-set-up-git-on-ubuntu-14-04-lts-vps.jpg) via rosehosting.com\[/caption\]
+![](images/how-to-install-and-set-up-git-on-ubuntu-14-04-lts-vps.jpg)
+*via rosehosting.com*
 
 Google sluit de deuren van sourcecodehosting-site Code, weer een steuntje in de rug van het populaire open source versiebeheersysteem GIT. 
 

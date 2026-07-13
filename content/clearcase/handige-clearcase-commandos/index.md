@@ -93,15 +93,15 @@ results in: **stream:<baseline>@\\<PVOB>**
 
 \*\*\* Find delta between two baselines
 
-**cleartool find . -version "{lbtype(<baseline\_reference\_1>) && !lbtype(<baseline\_reference\_2>)}" -exec "cleartool des -fmt "%En\\n" %CLEARCASE\_PN%"**
+**cleartool find . -version "{lbtype(<baseline\_reference\_1>)  !lbtype(<baseline\_reference\_2>)}" -exec "cleartool des -fmt "%En\\n" %CLEARCASE\_PN%"**
 
 The command must be invoked from within a relevant view context \*\*\* Find changes since a particular date
 
-**cleartool find . -version "{brtype(<stream\_path>) && created\_since(<date>)}" -exec "cleartool des -** **fmt "%En\\n" %CLEARCASE\_PN%"**
+**cleartool find . -version "{brtype(<stream\_path>)  created\_since(<date>)}" -exec "cleartool des -** **fmt "%En\\n" %CLEARCASE\_PN%"**
 
 Example:
 
-**cleartool find . -version "{brtype(\\main\\mboumans\_TSM\_UIM\_RcktC) && created\_since(13-Feb)}" -exec "cleartool des -** **fmt "%En\\n" %CLEARCASE\_PN%"**
+**cleartool find . -version "{brtype(\\main\\mboumans\_TSM\_UIM\_RcktC)  created\_since(13-Feb)}" -exec "cleartool des -** **fmt "%En\\n" %CLEARCASE\_PN%"**
 
 The command must be invoked from within a relevant view context \*\*\* Eclipsed files
 
