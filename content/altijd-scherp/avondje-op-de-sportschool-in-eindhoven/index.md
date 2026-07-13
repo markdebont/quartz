@@ -38,7 +38,6 @@ visibility: public
 ![img_4514](images/img_4514.jpg)
 
 
-
 De eigenaar van deze sportschool, waar ik ook graag  kom, had nieuwe foto's voor zijn website nodig. Dus donderdagavond op bezoek geweest om alles vast te leggen tijdens de reguliere lessen.
 
 Door de kleurstelling van de tenue's bleek de combinatie van bleek vooral de zwart /wit combinaties goed te werken! Dezelfde avond heb ik ook nog wat videoshots gemaakt en deze verwerkt tot een kort promo filmpje.

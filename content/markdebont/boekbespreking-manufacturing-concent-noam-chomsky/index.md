@@ -24,8 +24,7 @@ title: 'Boekbespreking: "Manufacturing Consent", Noam Chomsky'
 visibility: public
 ---
 
-![Manufacturing Consent](images/manugactorinconsent2.jpg "Manugactorinconsent2")
-*[](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)*
+![Manufacturing Consent](images/manugactorinconsent2.jpg)
 
 Dit is één van de betere boeken die ik in 2011 heb mogen lezen. Van te voren had ik op internet al één en ander van hem gelezen en diverse podcasts geluisterd. Afijn, laat Google los op "Noam Chomsky" en je komt al een heel eind. Dit boek is ook verfilmd met de gelijknamige titel. De boodschap is hetzelfde alhoewel ik het boek wel krachtiger vind.
 

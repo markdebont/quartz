@@ -27,5 +27,5 @@ title: Betrouwbaarheid en snellere doorlooptijd bij ontwikkeling van softwarepro
 visibility: public
 ---
 
-![Publication in monthly department magazine on the 'USF'](images/publication-in-monthly-department-magazine-on-the-usf.jpg "Publication in monthly department magazine on the 'USF'")
+![Publication in monthly department magazine on the 'USF'](images/publication-in-monthly-department-magazine-on-the-usf.jpg)
 *[](https://itsaclearcase.wordpress.com/wp-content/uploads/2012/05/publication-in-monthly-department-magazine-on-the-usf.jpg) Publication in monthly department magazine on the 'USF'*

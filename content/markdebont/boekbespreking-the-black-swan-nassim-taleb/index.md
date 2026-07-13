@@ -25,8 +25,7 @@ visibility: public
 
 Boekbespreking: “The Black Swan” , Nassim Nicholas Taleb
 
-![the Black Swan](images/black-swan-cover.jpg "Black-Swan-Cover")
-*[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/black-swan-cover.jpg)*
+![the Black Swan](images/black-swan-cover.jpg)
 
 Ik kwam de titel van dit boek regelmatig tegen op financiële websites. Vooral na de 1e financiële crises in 2008, dus toen deze met korting EN voor een zacht prijsje bij de Selexyz lag kon ik h'm natuurlijk niet laten liggen.
 

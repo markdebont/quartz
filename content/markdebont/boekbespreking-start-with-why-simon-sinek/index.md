@@ -25,8 +25,7 @@ title: 'Boekbespreking: "Start with Why" , Simon Sinek'
 visibility: public
 ---
 
-![Start with why](images/start_with_why.png "start_with_why")
-*[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/start_with_why.png)*
+![Start with why](images/start_with_why.png)
 
 Ik heb dit boek gekocht nadat ik een referentie naar hem op de [TED](http://www.ted.com), die in [Eindhoven georganiseerd](http://www.ted.com/tedx/events/1595) werd, wees. Het ging om [deze](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html) video die ik toen bekeek. Het sprak me meteen aan en vond het gelijk een geweldig en simpel verhaal, reden waarom ik het boek (wat niet eens de hoofdprijs kostte) bij [Amazon](http://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591842808/ref=sr_1_1?ie=UTF8*qid=1318964873*sr=8-1) gekocht heb.
 
@@ -38,8 +37,7 @@ En geeft voorbeelden waarom mensen enorm aangetrokken zijn tot een merk als Appl
 
 E.e.a. word aangevuld en uitgelegd met de 'golden circle' waar bedrijven die zich op het "hoe" en "wat" concentreren vaak niet succesvol zijn.
 
-![The golden circle](images/thegoldencircle.png "TheGoldenCircle")
-*[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/thegoldencircle.png)*
+![The golden circle](images/thegoldencircle.png)
 
 Voor de mensen die het allemaal teveel lezen vinden kunnen een mindmap van het boek [hier](http://mastermindmaps.wordpress.com/2011/08/27/live-mindmapping-ted-talk/) vinden.
 

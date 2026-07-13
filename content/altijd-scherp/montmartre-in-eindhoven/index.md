@@ -38,5 +38,4 @@ visibility: public
 ![img_5805](images/img_5805.jpg)
 
 
-
 De beste binnenstad van Nederland had weer een geweldig evenement: Montmartre. Een jaarlijks buurtfeest in de Bergen met striptekenaars en veel straatactiviteiten. De moeite waard zoals u ziet. Hier alvast een paar kiekjes voordat ondergetekende ging borrelen!

@@ -36,5 +36,4 @@ visibility: public
 ![img_6130](images/img_6130.jpg)
 
 
-
 Ja, wat kan ik er van zeggen. Elke fotograaf kijkt er naar uit, een half miljoen mensen hebben 'Eindje' bezocht. Kan er misschien weinig aan toevoegen, maar doe het dan toch ;-)

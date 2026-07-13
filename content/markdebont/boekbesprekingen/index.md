@@ -31,21 +31,21 @@ Als "professional" lees ik (veel) boeken ;-) Om u daar ook van te laten profit
 
 # [Boekbespreking: “Tricks of the Mind”, Derren Brown](http://markdebont.wordpress.com/2012/10/04/boekbespreking-tricks-of-the-mind-derren-brown/)
 
-![Derren Brown](images/trickofthemindcover.jpg "Derren Brown")
+![Derren Brown](images/trickofthemindcover.jpg)
 *Derren Brown*
 
 # [Boekbespreking: "the Code Book", Simon Singh](http://wp.me/p1tLVU-h6)
 
 ![](images/code-book.jpg)
 
-# [Boekbespreking: “Book of General Ignorance”, John Lloyd ![Book of General Ignorance](images/ignorance_9519_jpg_280x450_q851.jpg "Book of General Ignorance")
+# [Boekbespreking: “Book of General Ignorance”, John Lloyd ![Book of General Ignorance](images/ignorance_9519_jpg_280x450_q851.jpg)
 *John Mitchinson](http://markdebont.wordpress.com/2012/05/31/boekbespreking-book-of-general-ignorance-john-lloyd-john-mitchinson/)
 
 \[caption id="attachment\_971" align="alignnone" width="280"\][](https://markdebont.wordpress.com/wp-content/uploads/2012/05/ignorance_9519_jpg_280x450_q851.jpg) Book of General Ignorance*
 
 # **[Manufacturing Consent, Noam Chomsky](http://markdebont.wordpress.com/2012/02/27/boekbespreking-manufacturing-concent-noam-chomsky/)**
 
-[![Manufacturing Consent](images/manugactorinconsent2.jpg "Manugactorinconsent2")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)
+[![Manufacturing Consent](images/manugactorinconsent2.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)
 
 Manufacturing Consent
 
@@ -59,7 +59,7 @@ Anyway, dit boek heeft me geleerd ook andere media op te zoeken en te beluistere
 
 # [“Sky Sweeper”, Phillis Gershator](http://markdebont.wordpress.com/2012/01/13/boekbespreking-sky-sweeper-phillis-gershator/ "Permalink naar Boekbespreking: “Sky Sweeper”, Phillis Gershator")
 
-[![sky sweeper](images/sky-sweeper.jpg "sky sweeper")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/sky-sweeper.jpg)
+[![sky sweeper](images/sky-sweeper.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/sky-sweeper.jpg)
 
 sky sweeper 
 
@@ -67,15 +67,15 @@ Een boek voor kleine kinderen maar met een boodschap!
 
 [“The Black Swan” , Nassim Taleb](http://markdebont.wordpress.com/2011/12/06/boekbespreking-the-black-swan-nassim-taleb/ "Permalink naar Boekbespreking: “The Black Swan” , Nassim Taleb")
 
-![the Black Swan](images/black-swan-cover.jpg "Black-Swan-Cover")
+![the Black Swan](images/black-swan-cover.jpg)
 *[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/black-swan-cover.jpg) the Black Swan*
 
 # [“Start with Why” , Simon Sinek](http://markdebont.wordpress.com/2011/11/13/boekbespreking-start-with-why-simon-sinek/)
 
-![Start with why](images/start_with_why.png "start_with_why")
+![Start with why](images/start_with_why.png)
 *[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/start_with_why.png) Start with why*
 
-# [Het Blauwe Boekje, Stijlgids, De Vries ![Het blauwe boekje](images/hetblauweboekje_front.jpg "Hetblauweboekje_front")
+# [Het Blauwe Boekje, Stijlgids, De Vries ![Het blauwe boekje](images/hetblauweboekje_front.jpg)
 *Wolbrink](http://markdebont.wordpress.com/2011/11/06/boekbespreking-het-blauwe-boekje-de-vries-wolbrink/)
 
 07/11/2011
@@ -86,13 +86,13 @@ Een boek voor kleine kinderen maar met een boodschap!
 
 ## Up Your Service, Ron Kaufman
 
-[![up\_your\_service](images/up_your_service.jpg "up_your_service")](http://markdebont.wordpress.com/wp-content/uploads/2011/06/up_your_service.jpg)
+[![up\_your\_service](images/up_your_service.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/up_your_service.jpg)
 
 Dit boek ligt al jaren op mijn bureau. Het beschrijft vele praktische voorbeelden om service in de organisatie te verhogen. Het leukste vind ik de verschillende serviceniveau's beschrijft waar 'Criminal' onderaan staat.
 
 ## Musashi
 
-![miyamoto-musashi](images/miyamoto-musashi.jpg "miyamoto-musashi")
+![miyamoto-musashi](images/miyamoto-musashi.jpg)
 *[](http://markdebont.wordpress.com/wp-content/uploads/2011/06/miyamoto-musashi.jpg) miyamoto-musashi*
 
 t.b.a.

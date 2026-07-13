@@ -39,5 +39,4 @@ visibility: public
 ![img_3083](images/img_3083.jpg)
 
 
-
 Klik voor een slideshow

@@ -23,6 +23,4 @@ visibility: public
 
 Nu ook met automatische gezichtsherkenning voor op je PC! Must have dus. Heb h'm zelf ook (net zoals in de Bol reclame)!  
   
-[Download](http://picasa.google.com/support/bin/answer.py?hl=en*answer=53209)  
-  
-[](http://picasa.google.com/support/bin/answer.py?hl=en*answer=53209)
+[Download](http://picasa.google.com/support/bin/answer.py?hl=en*answer=53209)

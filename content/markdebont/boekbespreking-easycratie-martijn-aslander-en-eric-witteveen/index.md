@@ -28,7 +28,7 @@ title: 'Boekbespreking: "Easycratie", Martijn Aslander en Eric Witteveen'
 visibility: public
 ---
 
-![Easycratie](images/easycratie.jpg "Easycratie")
+![Easycratie](images/easycratie.jpg)
 *[](https://markdebont.wordpress.com/wp-content/uploads/2012/05/easycratie.jpg) Easycratie*
 
 **Hoe kom ik er aan en waarom heb ik het gekocht?**
