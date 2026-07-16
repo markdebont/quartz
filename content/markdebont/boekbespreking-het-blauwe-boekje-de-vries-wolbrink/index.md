@@ -22,8 +22,7 @@ themes:
 - boeken
 - maatschappij
 - persoonlijk archief
-title: 'Boekbespreking: "Het Blauwe Boekje" , De Vries ![Het blauwe boekje](images/hetblauweboekje_front.jpg)
-  *amp; Wolbrink'
+title: 'Boekbespreking: "Het Blauwe Boekje", De Vries & Wolbrink'
 visibility: public
 ---
 

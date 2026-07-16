@@ -32,5 +32,4 @@ Jarenlang clearcase.nl gedraait met teleurstellende bezoekersaantallen. IBM die 
 
 Daarom gooien we het over een andere boeg... Clearcase.nl gaat voortaan informatie bieden over configuration management / ALM tooling en dan vooral voor Atlassian.com / GIT.
 
-![](images/atlassian-logo.png)
 *Atlassian*

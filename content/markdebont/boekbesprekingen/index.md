@@ -21,7 +21,7 @@ visibility: public
 
 Als "professional" lees ik (veel) boeken ;-) Om u daar ook van te laten profiteren schrijf ik regelmatig boekbesprekingen:
 
-[Boekbespreking: “Easycratie”, Martijn Aslander en Eric Witteveen](../boekbespreking-easycratie-martijn-aslander-en-eric-witteveen/)
+[Boekbespreking: “Easycratie”, Martijn Aslander en Eric Witteveen](http://markdebont.wordpress.com/2013/09/13/boekbespreking-easycratie-martijn-aslander-en-eric-witteveen/)
 
 ![](images/easycratie.jpg)
 
@@ -29,7 +29,7 @@ Als "professional" lees ik (veel) boeken ;-) Om u daar ook van te laten profit
 
 ![](images/120823%20Richard%20de%20Leth%20Boekpromo%20OERsterk%20Herdruk%20poster%20A3.jpg)
 
-# [Boekbespreking: “Tricks of the Mind”, Derren Brown](../boekbespreking-tricks-of-the-mind-derren-brown/)
+# [Boekbespreking: “Tricks of the Mind”, Derren Brown](http://markdebont.wordpress.com/2012/10/04/boekbespreking-tricks-of-the-mind-derren-brown/)
 
 ![Derren Brown](images/trickofthemindcover.jpg)
 *Derren Brown*
@@ -43,9 +43,9 @@ Als "professional" lees ik (veel) boeken ;-) Om u daar ook van te laten profit
 
 \[caption id="attachment\_971" align="alignnone" width="280"\][](https://markdebont.wordpress.com/wp-content/uploads/2012/05/ignorance_9519_jpg_280x450_q851.jpg) Book of General Ignorance*
 
-# **[Manufacturing Consent, Noam Chomsky](../boekbespreking-manufacturing-concent-noam-chomsky/)**
+# **[Manufacturing Consent, Noam Chomsky](http://markdebont.wordpress.com/2012/02/27/boekbespreking-manufacturing-concent-noam-chomsky/)**
 
-![Manufacturing Consent](images/manugactorinconsent2.jpg)
+[![Manufacturing Consent](images/manugactorinconsent2.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/manugactorinconsent2.jpg)
 
 Manufacturing Consent
 
@@ -57,20 +57,20 @@ Anyway, dit boek heeft me geleerd ook andere media op te zoeken en te beluistere
 
 **Update 12/07/2011**: http://www.bbc.co.uk/news/business-14093772 Manufacturing Consent at work
 
-# [“Sky Sweeper”, Phillis Gershator](../boekbespreking-sky-sweeper-phillis-gershator/)
+# [“Sky Sweeper”, Phillis Gershator](http://markdebont.wordpress.com/2012/01/13/boekbespreking-sky-sweeper-phillis-gershator/ "Permalink naar Boekbespreking: “Sky Sweeper”, Phillis Gershator")
 
-![sky sweeper](images/sky-sweeper.jpg)
+[![sky sweeper](images/sky-sweeper.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/sky-sweeper.jpg)
 
 sky sweeper 
 
 Een boek voor kleine kinderen maar met een boodschap!
 
-[“The Black Swan” , Nassim Taleb](../boekbespreking-the-black-swan-nassim-taleb/)
+[“The Black Swan” , Nassim Taleb](http://markdebont.wordpress.com/2011/12/06/boekbespreking-the-black-swan-nassim-taleb/ "Permalink naar Boekbespreking: “The Black Swan” , Nassim Taleb")
 
 ![the Black Swan](images/black-swan-cover.jpg)
 *[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/black-swan-cover.jpg) the Black Swan*
 
-# [“Start with Why” , Simon Sinek](../boekbespreking-start-with-why-simon-sinek/)
+# [“Start with Why” , Simon Sinek](http://markdebont.wordpress.com/2011/11/13/boekbespreking-start-with-why-simon-sinek/)
 
 ![Start with why](images/start_with_why.png)
 *[](http://markdebont.wordpress.com/wp-content/uploads/2011/11/start_with_why.png) Start with why*
@@ -86,7 +86,7 @@ Een boek voor kleine kinderen maar met een boodschap!
 
 ## Up Your Service, Ron Kaufman
 
-![up\_your\_service](images/up_your_service.jpg)
+[![up\_your\_service](images/up_your_service.jpg)](http://markdebont.wordpress.com/wp-content/uploads/2011/06/up_your_service.jpg)
 
 Dit boek ligt al jaren op mijn bureau. Het beschrijft vele praktische voorbeelden om service in de organisatie te verhogen. Het leukste vind ik de verschillende serviceniveau's beschrijft waar 'Criminal' onderaan staat.
 

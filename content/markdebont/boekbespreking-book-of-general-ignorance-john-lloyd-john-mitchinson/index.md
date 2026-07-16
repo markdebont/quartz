@@ -19,8 +19,7 @@ themes:
 - boeken
 - maatschappij
 - persoonlijk archief
-title: 'Boekbespreking: "Book of General Ignorance", John Lloyd ![Book of General
-  Ignorance](images/ignorance_9519_jpg_280x450_q851.jpg) *amp; John Mitchinson'
+title: 'Boekbespreking: "Book of General Ignorance", John Lloyd & John Mitchinson'
 visibility: public
 ---
 

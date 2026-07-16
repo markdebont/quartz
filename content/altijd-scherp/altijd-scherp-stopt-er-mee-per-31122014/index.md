@@ -22,4 +22,4 @@ visibility: public
 
 Altijd Scherp stopt er mee per 31/12/2014
 
-![forget](images/forget.jpg)
+[![forget](images/forget.jpg)](https://altijdscherp.wordpress.com/wp-content/uploads/2015/01/forget.jpg)

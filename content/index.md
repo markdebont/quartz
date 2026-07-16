@@ -11,9 +11,9 @@ Een selectie uit oude blogs, foto’s en notities.
 ## Gepubliceerde selectie
 
 - Altijd Scherp Fotografie: 13 items
-- CLEARCASE.NL: 9 items
-- Eindhoven Finest: 2 items
-- Mark de Bont's blog: 11 items
+- CLEARCASE.NL: 16 items
+- Eindhoven Finest: 18 items
+- Mark de Bont's blog: 18 items
 
 ## Start
 
